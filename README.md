@@ -1,6 +1,6 @@
 # 🏥 Hospital Management System
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)
 
 A comprehensive **Java-based Hospital Management System** with **MySQL** integration designed to manage patients, doctors, and appointments efficiently within a healthcare facility.
 
@@ -221,7 +221,7 @@ git push origin feature/YourFeature
 
 ## 📝 License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+This project is licensed under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0.html)
 
 ---
 
